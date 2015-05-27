@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\AppStudio.WindowsPhone_1.1.9.3_Bundle\AppStudio.WindowsPhone_1.1.9.3_AnyCPU.appx
+SymbolPackage=C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\AppPackages\AppStudio.WindowsPhone_1.1.9.3_Test\AppStudio.WindowsPhone_1.1.9.3_AnyCPU.appxsym
+ResourcePack=C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\AppStudio.WindowsPhone_1.1.9.3_Bundle\AppStudio.WindowsPhone_1.1.9.3_language-pt.appx
+ResourcePack=C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\AppStudio.WindowsPhone_1.1.9.3_Bundle\AppStudio.WindowsPhone_1.1.9.3_scale-140.appx

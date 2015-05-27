@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EDI3G40-PC</Machine>
+    <WindowsUser>Edilson</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>16020EdilsonAlzemand.MegaCuriosoApp</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Data\bin\Debug\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\packages\Newtonsoft.Json.6.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Data\bin\Debug\PCLStorage.Abstractions.dll">
+      <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Data\bin\Debug\PCLStorage.dll">
+      <PackagePath>PCLStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\ErrorImage.png">
+      <PackagePath>Assets\ErrorImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\DataImages\FlipSquareTile.png">
+      <PackagePath>Assets\DataImages\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\DataImages\FlipWideTile.png">
+      <PackagePath>Assets\DataImages\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Views\DataTemplates\NoticiasViews.xaml">
+      <PackagePath>Views\DataTemplates\NoticiasViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Views\DataTemplates\YouTubeViews.xaml">
+      <PackagePath>Views\DataTemplates\YouTubeViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\Views\DataTemplates\SobreViews.xaml">
+      <PackagePath>Views\DataTemplates\SobreViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\Data\NoticiasDataSource.json">
+      <PackagePath>Assets\Data\NoticiasDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\Data\YouTubeDataSource.json">
+      <PackagePath>Assets\Data\YouTubeDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\Data\SobreDataSource.json">
+      <PackagePath>Assets\Data\SobreDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Shared\Assets\Data\SobreDataSource.htm">
+      <PackagePath>Assets\Data\SobreDataSource.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Styles\AppTheme.xbf">
+      <PackagePath>Styles\AppTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Styles\DefaultTheme.xbf">
+      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\AppFlyouts\AboutFlyout.xbf">
+      <PackagePath>Views\AppFlyouts\AboutFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\AppFlyouts\PrivacyFlyout.xbf">
+      <PackagePath>Views\AppFlyouts\PrivacyFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\NoticiasList.xbf">
+      <PackagePath>Views\NoticiasList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\NoticiasDetailPage.xbf">
+      <PackagePath>Views\NoticiasDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\YouTubeList.xbf">
+      <PackagePath>Views\YouTubeList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Views\YouTubeDetailPage.xbf">
+      <PackagePath>Views\YouTubeDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Styles\FontSizes.xbf">
+      <PackagePath>Styles\FontSizes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\Styles\PlatformStyles.xbf">
+      <PackagePath>Styles\PlatformStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

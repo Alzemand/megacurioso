@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="6588494d-37e3-4bf8-bf82-6a4bc10c0818" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="0dde57b7-8c99-5b9a-0771-4cdcca925c59" />
+    <ReferenceAssembly PathName="c:\users\edilson\desktop\megacurioso whitdad - copia\lib\appstudio.common.dll" HashGuid="11133f9f-b8b1-3b48-7126-b5e28bf7f658" />
+    <ReferenceAssembly PathName="c:\users\edilson\desktop\megacurioso whitdad - copia\appstudio.data\bin\release\appstudio.data.dll" HashGuid="cb8e4972-ec45-d5e5-8b5d-93335fa9cee1" />
+    <ReferenceAssembly PathName="c:\users\edilson\desktop\megacurioso whitdad - copia\packages\htmlagilitypack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="365e4636-8cbf-8d2d-3790-d3267e801443" />
+    <ReferenceAssembly PathName="c:\users\edilson\desktop\megacurioso whitdad - copia\packages\newtonsoft.json.6.0.6\lib\netcore45\newtonsoft.json.dll" HashGuid="63116148-54c9-33e9-c28b-753c429e654f" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

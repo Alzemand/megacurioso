@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nl"
+"ResourceDimensions"		"language-nl-nl"
+
+[Files]
+"C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\obj\Release\split.language-nl.pri"			"resources.pri"

@@ -1,0 +1,2 @@
+C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.Data\AppStudio.Data.csproj;neutral
+C:\Users\Edilson\Documents\Aplicativos\Megacurioso 1.9\AppStudio.WindowsPhone\AppStudio.WindowsPhone.csproj;neutral

@@ -1,0 +1,2 @@
+C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Data\AppStudio.Data.csproj;neutral
+C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\AppStudio.WindowsPhone.csproj;neutral

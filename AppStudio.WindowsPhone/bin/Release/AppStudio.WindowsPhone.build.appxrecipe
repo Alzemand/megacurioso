@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EDI3G40-PC</Machine>
+    <WindowsUser>Edilson</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>80c68464-4e03-4091-bac1-d8224480832d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\AppStudio.exe">
+      <PackagePath>AppStudio.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Common.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Common.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Display.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Display.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\Lib\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Data\bin\Release\AppStudio.Data.dll">
+      <PackagePath>AppStudio.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\packages\Newtonsoft.Json.6.0.6\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Data\bin\Release\PCLStorage.Abstractions.dll">
+      <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Data\bin\Release\PCLStorage.dll">
+      <PackagePath>PCLStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\Ormma.js">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\Square71x71Logo.png">
+      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\ErrorImage.png">
+      <PackagePath>Assets\ErrorImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\DataImages\FlipSquareTile.png">
+      <PackagePath>Assets\DataImages\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\DataImages\FlipWideTile.png">
+      <PackagePath>Assets\DataImages\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Views\DataTemplates\NoticiasViews.xaml">
+      <PackagePath>Views\DataTemplates\NoticiasViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Views\DataTemplates\YouTubeViews.xaml">
+      <PackagePath>Views\DataTemplates\YouTubeViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\Views\DataTemplates\SobreViews.xaml">
+      <PackagePath>Views\DataTemplates\SobreViews.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\Data\NoticiasDataSource.json">
+      <PackagePath>Assets\Data\NoticiasDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\Data\YouTubeDataSource.json">
+      <PackagePath>Assets\Data\YouTubeDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\Data\SobreDataSource.json">
+      <PackagePath>Assets\Data\SobreDataSource.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.Shared\Assets\Data\SobreDataSource.htm">
+      <PackagePath>Assets\Data\SobreDataSource.htm</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Styles\AppTheme.xbf">
+      <PackagePath>Styles\AppTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Styles\DefaultTheme.xbf">
+      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Views\AboutThisAppPage.xbf">
+      <PackagePath>Views\AboutThisAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Views\ImageViewer.xbf">
+      <PackagePath>Views\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Views\NoticiasDetailPage.xbf">
+      <PackagePath>Views\NoticiasDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Views\YouTubeDetailPage.xbf">
+      <PackagePath>Views\YouTubeDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Styles\FontSizes.xbf">
+      <PackagePath>Styles\FontSizes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\Styles\PlatformStyles.xbf">
+      <PackagePath>Styles\PlatformStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\AppStudio.xr.xml">
+      <PackagePath>AppStudio.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Edilson\Desktop\megacurioso whitdad - Copia\AppStudio.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
