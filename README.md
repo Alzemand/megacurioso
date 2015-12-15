@@ -1,13 +1,11 @@
-# Megacurioso
-
-MIT
-
 Megacuriso app for Windows Phone 
 --------------------------------
 
 Megacurioso is the perfect app for anyone who is hungry for knowledge and want to dive in the most intriguing mysteries of humanity. Our goal is to teach people about various subjects in an accessible way and with information ranging from scientific curiosities , viral and facts of everyday life even bizarre news that permeate our universe.
 
 ![Megacurioso](http://www.windowsteam.com.br/wp-content/uploads/2015/06/Megacurioso-Windows-Phone.jpg)
+
+MIT
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
